@@ -33,9 +33,9 @@ C/C++の組み込み系開発に数年携わる
 [<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" />](https://tabelog.com/rvwr/narunarumireview/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/pixiv/0096FA" width="30" />](https://www.pixiv.net/users/34922723)
 
-推し旅した場所、グルメをインスタ、食べログに投稿始めた🎵
+推し旅した場所。おいしかったグルメ。推しとの思い出はインスタ、食べログに投稿始めた🎵
 
-イラストは今はもう描いていないけど、昔頑張っていたのでせっかくなので🎨
+イラストは今はもう描いていないけど、昔頑張ってたしせっかくなので🎨
 
 ### 🍀 **_My Favorites_** 🍀![MOREMORE-JUMP-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:88dd44,100:f5f5f7)
 
@@ -96,7 +96,6 @@ C/C++の組み込み系開発に数年携わる
 
 <br clear="right">
 </div>
-<br>
 
 > [!tip]
 > 大阪の大東洋でペンギンルームに入ったところ、寄りかかって休んでたおっちゃんがパイプに髪の毛張り付けて動けなくなり助けを求めるシーンに出くわしたとかしてないとか...
@@ -117,7 +116,6 @@ C/C++の組み込み系開発に数年携わる
 
 <br clear="right">
 </div>
-<br>
 
 <div>
 <img align="left" width="39%" style="margin-right: 15px" src="./assets/miku_ramen.jpg">
@@ -131,7 +129,6 @@ C/C++の組み込み系開発に数年携わる
 
 サウナ後のサ飯は生姜焼きが最強だと思っている！異論は認める、ぜひ教えてほしい✨
 </div>
-<br>
 <br>
 
 > [!tip]
