@@ -29,8 +29,8 @@ C/C++の組み込み系開発に数年携わる
 
 ### 🎼 **_Social Media_** 🎼![Nightcord-at25-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:884499,100:f5f5f7)
 
-[<img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" style="margin-right: 15px" />](https://www.instagram.com/_narumikr396/)
-[<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" style="margin-right: 15px" />](https://tabelog.com/rvwr/narunarumireview/)
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />](https://www.instagram.com/_narumikr396/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" />](https://tabelog.com/rvwr/narunarumireview/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/pixiv/0096FA" width="30" />](https://www.pixiv.net/users/34922723)
 
 推し旅した場所、グルメをインスタ、食べログに投稿始めた🎵
