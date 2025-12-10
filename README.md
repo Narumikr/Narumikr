@@ -6,41 +6,73 @@
 
 <details>
 <summary>Table of contents</summary>
+<br>
+
+- 💫 **Introduction** 💫
+- 🎼 **Social Media** 🎼
+- 🍀 **My Favorites** 🍀
+  - [**プロジェクトセカイ**](#プロジェクトセカイ)
+  - [**サウナ**](#サウナ)
+  - [**旅行 / 食べること**](#旅行--食べること)
 
 </details>
 
-###  💫 **_Introduction_** 💫
-![Leo/need-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3367cc,100:f5f5f7)
+###  💫 **_Introduction_** 💫![Leo/need-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:3367cc,100:f5f5f7)
 
-<div align="left">
-  <p style="margin: 3px;">C/C++の組み込み系開発に数年携わる</P>
-  <p style="margin: 3px;">途中Webメニュー開発に関わったことがきっかけでどハマり。仕事と並行して独学で1年ほどNext,TypeScriptをお勉強した後転向</P>
-  <p style="margin: 3px;">なんやかんやありバックエンドもやることになったので、Springも勉強中...</p>
-  <p style="margin: 3px;">時代はAIだ！と心が叫んでいるためAIエージェントにも手を出している</p>
-</div>
+
+C/C++の組み込み系開発に数年携わる
+
+途中Webメニュー開発に関わったことがきっかけでどハマり。仕事と並行して独学で1年ほどNext,TypeScriptをお勉強した後転向
+
+なんやかんやありバックエンドもやることになったので、Springも勉強中...
+
+時代はAIだ！と心が叫んでいるためAIエージェントにも手を出している
+
+### 🎼 **_Social Media_** 🎼![Nightcord-at25-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:884499,100:f5f5f7)
+
+
+[<img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" style="margin-right: 15px" />](https://www.instagram.com/_narumikr396/)
+[<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" style="margin-right: 15px" />](https://tabelog.com/rvwr/narunarumireview/)
+[<img src="https://cdn.simpleicons.org/pixiv/0096FA" width="30" />](https://www.pixiv.net/users/34922723)
+
+推し旅した場所、グルメをインスタ、食べログに投稿始めた🎵
+
+イラストは今はもう描いていないけど、昔頑張っていたのでせっかくなので🎨
+
 
 ### 🍀 **_My Favorites_** 🍀![MOREMORE-JUMP-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:88dd44,100:f5f5f7)
 
-### **プロジェクトセカイ**
+#### **プロジェクトセカイ**
 
-<p style="margin: 3px;">プロセカが大好き🎶</p>
-<p style="margin: 3px;">しんどい時期があったけど、プロセカに出会って救われた</p>
-<p style="margin: 3px;">ミクちゃん、みんな！ありがとう✨</p>
-<br>
-<p style="margin: 3px;">感謝祭やセカライ、セカシンなどイベントごとは毎回参戦している🎵</p>
-<p style="margin: 3px;">常に進化し続けている運営さんホンマ感謝です<(_ _)></p>
-<p style="margin: 3px;">5thの感謝祭、後半の劇場曲ラッシュはさすがに声が漏れた T T</p>
+<div>
+<img align="right" width=39%" style="margin-right: 15px" src="./assets/thank_prsk.jpg">
+<br clear="left">
 
-### **サウナ**
+プロセカが大好き🎶
+
+しんどい時期があったけど、プロセカに出会って救われた
+
+ミクちゃん、みんな！ありがとう✨
+
+感謝祭やセカライ、セカシンなどイベントごとは毎回参戦している🎵
+
+常に進化し続けている運営さんホンマ感謝です<(_ _)>
+
+5thの感謝祭、後半の劇場曲ラッシュはさすがに声が漏れた💫
+
+</div>
+<br clear="right">
+
+#### **サウナ**
 
 <div>
 <img align="right" width="45%" src="./assets/desse_sauna.jpg">
 
-週に1回はサウナに行く
+週に1回以上はサウナに行く
 
 サウナ後に食べる味濃い飯がうますぎる...
 
-おすすめはどこかと聞かれたら"金亀"を紹介している
+おすすめはどこかと聞かれたら"[金亀](https://kinnokame.com/)"を紹介している
 
 サウナ室はもちろん、水風呂や飲料水、通路と至る所生姜の香り
 
@@ -48,12 +80,12 @@
 
 サ飯には1階の生姜焼き専門店で最高にキマる
 
-<br clear="right">
 </div>
 <br>
 
 <div>
 <img align="left" width="39%" style="margin-right: 15px" src="./assets/the_sauna.jpg">
+<br clear="right">
 
 今までいったサウナで一番好きなのはThe Sauna...
 
@@ -70,4 +102,48 @@
 <br>
 
 > [!tip]
-> 大阪の大東洋でペンギンルームに入ったところ、寄りかかって休んでたおっちゃんがパイプに髪の毛張り付けて動けなくなり助けを求めるシーンに出くわしたとかしないとか...
+> 大阪の大東洋でペンギンルームに入ったところ、寄りかかって休んでたおっちゃんがパイプに髪の毛張り付けて動けなくなり助けを求めるシーンに出くわしたとかしてないとか...
+
+#### **旅行 / 食べること**
+
+<div>
+<img align="right" width="39%" style="margin-left: 15px" src="./assets/skyspa.jpg">
+<br clear="left">
+
+目指せ日本全国✨
+
+まだ見ぬグルメ、まだ見ぬサウナ、温泉に大自然求めていろんなところに旅行に行きたい!!!
+
+旅行先は大体、温泉入りたい、あれ食べたい、これ食べたいから探し始める
+
+三大名泉は当然のように制覇はしたが、まだ有名どころ行けていない場所が結構あるので、温泉巡るぞ2026♨
+
+<br clear="right">
+</div>
+<br>
+
+<div>
+<img align="left" width="39%" style="margin-right: 15px" src="./assets/miku_ramen.jpg">
+<br clear="right">
+
+主にラーメンだが、休日には調べてちょっと遠出して食べに行くこともある🍜
+
+数年前はデブラ求めて出かけてたけど、最近は無理になってきた、、、💦
+
+普通のラーメンでも大盛りにするのしんどいときがある、、、(でもしちゃうんだよなぁ)
+
+サウナ後のサ飯は生姜焼きが最強だと思っている！異論は認める、ぜひ教えてほしい✨
+</div>
+<br>
+<br>
+
+> [!tip]
+> 八丈島に行って初めてのダイビング体験🌊 友達が予約してくれたのだけど、お店の名前がレグルス💫
+> お店の中に大きなしし座の絵画が飾ってあった！
+
+<div>
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/regulus.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/waterfall.jpg">
+<img align="left" width="30%" src="./assets/banpaku.jpg">
+</div>
+<br clear="right">
