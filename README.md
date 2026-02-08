@@ -8,12 +8,14 @@
 <summary>Table of contents</summary>
 <br>
 
-- 💫 **Introduction** 💫
-- 🎼 **Social Media** 🎼
-- 🍀 **My Favorites** 🍀
+- [💫 **_Introduction_** 💫](#-introduction-)
+- [🎼 **_Social Media_** 🎼](#-social-media-)
+- [🍀 **_My Favorites_** 🍀](#-my-favorites-)
   - [**プロジェクトセカイ**](#プロジェクトセカイ)
   - [**サウナ**](#サウナ)
+  - [**アークナイツ / エンドフィールド**](#アークナイツ--エンドフィールド)
   - [**旅行 / 食べること**](#旅行--食べること)
+- [🎤 **_Gallery_** 🎤](#-gallery-)
 
 </details>
 
@@ -25,11 +27,13 @@ C/C++の組み込み系開発に数年携わる
 
 なんやかんやありバックエンドもやることになったので、Springも勉強中...
 
-時代はAIだ！と心が叫んでいるためAIエージェントにも手を出している
+時代はAIだ！と心が叫んでいるためAI駆動やエージェントにも手を出している
 
 ### 🎼 **_Social Media_** 🎼![Nightcord-at25-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:884499,100:f5f5f7)
 
 [<img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" />](https://www.instagram.com/_narumikr396/) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/x/000000" width="30" />](https://x.com/mmhr_cani96) &nbsp;&nbsp;
+[<img src="https://cdn.simpleicons.org/bluesky/1185FE" width="30" />](https://bsky.app/profile/narumikr.bsky.social) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/tabelog/F2C038" width="30" />](https://tabelog.com/rvwr/narunarumireview/) &nbsp;&nbsp;
 [<img src="https://cdn.simpleicons.org/pixiv/0096FA" width="30" />](https://www.pixiv.net/users/34922723)
 
@@ -59,6 +63,10 @@ C/C++の組み込み系開発に数年携わる
 
 </div>
 <br clear="right">
+
+> [!note]
+> 君たちのために歌うよ🎶と言われているかのように心に突き刺さるLeo/need💫、盛り上げるだけじゃなく楽しさをくれるモモジャン🍀、歌を聴け歌を。と脳が震える歌声をかっこいいダンスとともに披露してくれるビビバス🎤、MCパートから曲は始まっているかのごとくパフォーマンスで魅せてくれるワンダショ🎪、しっとりバラードで涙腺えぐってきたかと思ったら爆上げ曲で感情ジェットコースター💻
+> もう最高です...
 
 #### **サウナ**
 
@@ -100,8 +108,46 @@ C/C++の組み込み系開発に数年携わる
 > [!tip]
 > 大阪の大東洋でペンギンルームに入ったところ、寄りかかって休んでたおっちゃんがパイプに髪の毛張り付けて動けなくなり助けを求めるシーンに出くわしたとかしてないとか...
 
+#### **アークナイツ / エンドフィールド**
+
+<details><summary>View details</summary>
+<div>
+<img align="right" width="39%" style="margin-left: 15px" src="./assets/arknights_fes.jpg">
+<br clear="left">
+
+アークナイツさん高レアでドッカン火力、高耐久でクリアするのも楽しいし
+
+低レアの編成でいろいろ試行錯誤してクリアする達成感も捨てがたい
+
+ゲーム性もいいが、キャラデザもすっごく好み。推しはアーミヤさん🐰
+
+<br clear="right">
+</div>
+
+<div>
+<img align="left" width="39%" style="margin-right: 15px" src="./assets/endfield.jpg">
+<br clear="right">
+
+もう何年待ったか...楽しみにしてました✨
+
+3Dモデル綺麗すぎでしょ、、、マップも、、、
+
+よくあるオープンワールドゲームじゃなく、もはやMMORPGのような体験ができて期待値超えた!!!
+
+推しは管理人とペリカ🍎
+</div>
+<br>
+
+> [!note]
+> 年明けにあるアークナイツフェス、展示といくつかある縁日で遊ぶだけでもすごく充実するイベントで楽しい
+> 
+> エンドフィールドもフェスイベントあったらいいなぁ。。。
+
+</details>
+
 #### **旅行 / 食べること**
 
+<details><summary>View details</summary>
 <div>
 <img align="right" width="39%" style="margin-left: 15px" src="./assets/skyspa.jpg">
 <br clear="left">
@@ -135,9 +181,24 @@ C/C++の組み込み系開発に数年携わる
 > 八丈島に行って初めてのダイビング体験🌊 友達が予約してくれたのだけど、お店の名前がレグルス💫
 > お店の中に大きなしし座の絵画が飾ってあった！
 
+</details>
+
+### 🎤 **_Gallery_** 🎤![Vivid-BAD-SQUAD-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ee1166,100:f5f5f7)
+
 <div>
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/regulus.jpg">
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/waterfall.jpg">
+<img align="left" width="30%" src="./assets/arknights_endfield.jpg">
+<br clear="left">
+</div>
+
+<br>
+
+<details><summary>and more...</summary>
+<div>
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/ancel.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/amiya.jpg">
 <img align="left" width="30%" src="./assets/banpaku.jpg">
 </div>
 <br clear="right">
+</details>
