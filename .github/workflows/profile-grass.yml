@@ -17,8 +17,11 @@ jobs:
       - name: Load settings
         id: load_settings
         run: |
-          SETTING_JSON=$(cat .github/scripts/profile-grass-setting.json)
-          echo "SETTING_JSON=$SETTING_JSON" >> $GITHUB_ENV
+          {
+            echo "SETTING_JSON<<EOF"
+            cat .github/scripts/profile-grass-setting.json
+            echo "EOF"
+          } >> $GITHUB_ENV
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
