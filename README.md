@@ -212,6 +212,7 @@ C/C++の組み込み系開発に数年携わる
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/sekai-temple.jpg">
 <img align="left" width="30%" src="./assets/gakumasu.jpg">
 </div>
+<br clear="left">
 </details>
 
 ![Wonderlands-Showtime-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff9900,100:f5f5f7)
