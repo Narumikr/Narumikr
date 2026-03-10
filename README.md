@@ -49,7 +49,7 @@ C/C++の組み込み系開発に数年携わる
 #### **プロジェクトセカイ**
 
 <div>
-<img align="right" width=39%" style="margin-right: 15px" src="./assets/thank_prsk.jpg">
+<img align="right" style="max-width:39%; width:auto; height:auto; margin-right: 15px" src="./assets/thank_prsk.jpg">
 <br clear="left">
 
 プロセカが大好き🎶
@@ -141,7 +141,7 @@ C/C++の組み込み系開発に数年携わる
 </div>
 <br>
 
-> [!note]
+> 🐧 **Note**
 > 年明けにあるアークナイツフェス、展示といくつかある縁日で遊ぶだけでもすごく充実するイベントで楽しい
 > 
 > エンドフィールドもフェスイベントあったらいいなぁ。。。
@@ -180,7 +180,8 @@ C/C++の組み込み系開発に数年携わる
 </div>
 <br>
 
-> [!tip]
+> 🎸 **Tip**
+> 
 > 八丈島に行って初めてのダイビング体験🌊 友達が予約してくれたのだけど、お店の名前がレグルス💫
 > お店の中に大きなしし座の絵画が飾ってあった！
 
@@ -198,12 +199,20 @@ C/C++の組み込み系開発に数年携わる
 <br>
 
 <details><summary>and more...</summary>
+<br>
 <div>
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/ancel.jpg">
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/amiya.jpg">
 <img align="left" width="30%" src="./assets/banpaku.jpg">
 </div>
-<br clear="right">
+<br clear="left">
+
+<div style="margin-top: 15px">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/sushi-sekai.jpg">
+<img align="left" width="30%" style="margin-right: 15px" src="./assets/sekai-temple.jpg">
+<img align="left" width="30%" src="./assets/gakumasu.jpg">
+</div>
+<br clear="left">
 </details>
 
 ![Wonderlands-Showtime-divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:ff9900,100:f5f5f7)
