@@ -49,7 +49,7 @@ C/C++の組み込み系開発に数年携わる
 #### **プロジェクトセカイ**
 
 <div>
-<img align="right" style="max-width:39%; width:auto; height:auto; margin-right: 15px" src="./assets/thank_prsk.jpg">
+<img align="right" width=39%" style="margin-right: 15px" src="./assets/thank_prsk.jpg">
 <br clear="left">
 
 プロセカが大好き🎶
@@ -207,6 +207,7 @@ C/C++の組み込み系開発に数年携わる
 </div>
 <br clear="left">
 
+<br>
 <div style="margin-top: 15px">
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/sushi-sekai.jpg">
 <img align="left" width="30%" style="margin-right: 15px" src="./assets/sekai-temple.jpg">
